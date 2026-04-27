@@ -217,8 +217,8 @@ crm software/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd "crm software"
+git clone https://github.com/sharvildw/CRM.git
+cd "CRM"
 ```
 
 ### 2. Install Dependencies
