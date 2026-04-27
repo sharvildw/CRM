@@ -278,7 +278,6 @@ Navigate to **http://localhost:3000** in your browser.
 |----------|---------|-------------|
 | `PORT` | `5000` | API server port |
 | `MONGODB_URI` | `mongodb://localhost:27017/crm_db` | MongoDB connection string |
-| `JWT_SECRET` | `crm_super_secret_key_2024_production` | JWT signing secret |
 | `JWT_EXPIRE` | `7d` | Token expiration period |
 | `NODE_ENV` | `development` | Environment mode |
 | `CLIENT_URL` | `http://localhost:3000` | CORS origin |
